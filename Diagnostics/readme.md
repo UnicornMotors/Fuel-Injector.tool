@@ -17,6 +17,9 @@
 # Priming Circuit
 - [93 Ford F150 300 I6 4.9L 4x4 wont start FIXED.](https://youtu.be/7hp3XVKm65c)
 
+# Fuel Trims
+- [Secret of Engine Problem Diagnosis- Fuel Trims Pt.1](https://youtu.be/5WnM_NsOtd8)
+
 # Top:
 - [Fuel injector? Fuel regulator? Fuel pump? Learn fuel diagnostics](https://youtu.be/0PrgUOAG-fU)
 - [How to Diagnose, Test and Clean Dirty, Clogged or Bad Fuel Injectors](https://youtu.be/XhYEDkpF3Qs)
